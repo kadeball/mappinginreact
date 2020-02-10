@@ -11,9 +11,8 @@ function MakeCharacters ({ characterState }) {
     function condition() {
 
         let styles = {
-            margin: '24px',
-            padding: '12px',
-            backgroundColor: 'green',
+           textAlign: "center",
+            backgroundColor: 'pink',
             maxWidth: '200px'
         };
 
